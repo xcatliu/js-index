@@ -1,4 +1,4 @@
-# JavaScript Index
+# JS Index
 
 > 有关 JavaScript 的所有概念的索引
 
