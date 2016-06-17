@@ -1,0 +1,32 @@
+{
+  "name": "js-index",
+  "version": "1.0.0",
+  "description": "有关 JavaScript 的所有概念的索引",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcatliu/js-index.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Index"
+  ],
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcatliu/js-index/issues"
+  },
+  "homepage": "https://github.com/xcatliu/js-index#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-marked": "^1.0.0",
+    "gulp-swig": "^0.8.0",
+    "rimraf": "^2.5.2"
+  }
+}
