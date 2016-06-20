@@ -1,4 +1,6 @@
-# JavaScript
+---
+title: JavaScript
+---
 
 JavaScript 是一种脚本语言。
 
