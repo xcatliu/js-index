@@ -32,6 +32,8 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 - [ ] Apply for the domain name
 - [ ] Index concepts
 
+---
+
 <a id="cn-js-index"></a>
 
 # JS 索引

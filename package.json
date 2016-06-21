@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "hexo clean && hexo generate && hexo serve --watch",
-    "deploy": "hexo clean && hexo generate && hexo deploy"
+    "deploy": "hexo clean && hexo generate && hexo deploy",
+    "lint": "eslint . && echo 'ESLint Passed!\\n'",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -28,9 +30,16 @@
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.2.0",
     "hexo-generator-index": "^0.2.0",
+    "hexo-pagination": "^0.1.0",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.0",
+    "object-assign": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.1"
   }
 }
