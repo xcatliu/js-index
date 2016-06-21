@@ -9,10 +9,10 @@
   </head>
   <body>
     <ul>
-    <% config.language.filter(lang => lang !== 'default').forEach(lang => { %>
+    <% page.posts.forEach((post) => { %>
       <li>
-        <a href="<%- url_for(lang) %>">
-          <%= lang %>
+        <a href="<%- url_for(post.path) %>">
+          <%= post.title %>
         </a>
       </li>
     <% }); %>

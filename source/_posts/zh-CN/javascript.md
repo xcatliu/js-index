@@ -8,4 +8,4 @@ JavaScript 是一种脚本语言。
 
 - [JavaScript 入门教程](http://www.w3schools.com/js/)（[中文版](http://www.w3school.com.cn/js/index.asp)）
 - 很权威的 JavaScript API 文档：[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)（[中文版](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)）
-- 红宝书[《JavaScript 高级程序设计》](https://book.douban.com/subject/10546125/)
+- [《JavaScript 高级程序设计》](https://book.douban.com/subject/10546125/)
