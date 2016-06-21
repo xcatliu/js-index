@@ -1,5 +1,5 @@
 ---
 title: JS
 layout: redirect
-redirect: javascript
+redirect: JavaScript
 ---

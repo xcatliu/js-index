@@ -4,7 +4,7 @@
 
 # Site
 title: JS Index
-subtitle:
+subtitle: The index of everything in JavaScript
 description:
 author: Xcat Liu
 language:
@@ -59,7 +59,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 1000
+per_page: 0
 pagination_dir: page
 
 index_generator:
