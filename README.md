@@ -4,7 +4,7 @@
 
 > The index of every JavaScript concepts
 
-I'll update one concepts per day. It's welcome to open an issue or create a pull request.
+I'll update one concept per day. Welcome to open an issue or create a pull request.
 
 ## Why to create this index
 
@@ -16,19 +16,19 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 ## Three principles
 
-1. Collect every concepts, no matter how basic or how deep it is
-2. The description of concepts need to be as simple as it can. It's ok to let our custom have a basic understanding for it. And additionally supply some links for depth understanding
-3. The links we supplied need to be as authority and meaningful as it can. Quality is better than quantity. Links is the most valuable thing in JS Index
+1. Collecting every concepts, no matter how basic or how deep it is
+2. The description of concepts need to be as simple as it can. It's ok to let our reader have a basic understanding for it, then additionally provide some links for depth understanding
+3. The links we provided need to be as authority and meaningful as it can. Quality is better than quantity. Links is the most valuable thing in JS Index
 
 ## Writing specifications
 
-1. Every files need to be named with lower case letters and `-`, no spaces. In some special cases, it's allowed to use `_`, i.e. `__proto__.md`
-2. Second level heading need to be used for multiple meanings of one concepts. In other words, if one concepts has only one meaning, but we need to use sub heading, use third level heading instead
-3. Use unified words for proper noun, for example, use JavaScript, not javascript or Javascript
+1. Every files need to be named with lower case letters and `-`, and no spaces. In some special cases, it's allowed to use `_`, i.e. `__proto__.md`
+2. Second level heading need to be used for multiple meanings of one concept. In the other words, if one concept has only one meaning, but we need to use sub heading, then use third level heading instead
+3. Use unified words for proper nouns, for example, use JavaScript, not javascript or Javascript
 
 ## TODOs
 
-- [ ] Use hexo to build out site
+- [ ] Use hexo to build the site
 - [ ] Apply for the domain name
 - [ ] Index concepts
 
