@@ -1,0 +1,12 @@
+@import 'variables';
+
+.header {
+  background: $color-yellow-orange;
+  color: white;
+
+  h1 {
+    margin: 0;
+    font-size: $font-size-normal;
+    display: inline-block;
+  }
+}

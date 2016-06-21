@@ -1,0 +1,12 @@
+<header class="header">
+  <h1><%= __('header.title') %></h1>
+  <a><%= __('header.archive') %></a>
+  <a><%= __('header.new') %></a>
+  <a><%= __('header.github') %></a>
+  <input type="text" placeholder="<%= __('header.search') %>"/>
+  <select>
+  <% config.language.filter(lang => lang !== 'default').forEach(lang => { %>
+    <option><%= lang %></option>
+  <% }); %>
+  </select>
+</header>

@@ -6,8 +6,10 @@
     <title><%= config.title %></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <%- css('css/index.css') %>
   </head>
   <body>
+  <%- partial('partial/header') %>
     <ul>
     <% config.language.filter(lang => lang !== 'default').forEach(lang => { %>
       <li>
