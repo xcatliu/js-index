@@ -1,4 +1,38 @@
+[中文 README](#cn-js-index)
+
 # JS Index
+
+> The index of every JavaScript concepts
+
+I'll update one concepts per day. It's welcome to open an issue or create a pull request.
+
+## Why to create this index
+
+Because JavaScript is being more and more popular, the related concepts is growing every day.
+
+As for me, it's impossible to understand the whole world of JavaScript, but it's normally to hear some related concepts.
+
+So I hope to collect every JavaScript concepts, in order to help people who need it, especially friends new to JavaScript.
+
+## Three principles
+
+1. Collect every concepts, no matter how basic or how deep it is
+2. The description of concepts need to be as simple as it can. It's ok to let our custom have a basic understanding for it. And additionally supply some links for depth understanding
+3. The links we supplied need to be as authority and meaningful as it can. Quality is better than quantity. Links is the most valuable thing in JS Index
+
+## Writing specifications
+
+1. Every files need to be named with lower case letters and `-`, no spaces. In some special cases, it's allowed to use `_`, i.e. `__proto__.md`
+2. Second level heading need to be used for multiple meanings of one concepts. In other words, if one concepts has only one meaning, but we need to use sub heading, use third level heading instead
+3. Use unified words for proper noun, for example, use JavaScript, not javascript or Javascript
+
+## TODOs
+
+- [ ] Use hexo to build out site
+- [ ] Apply for the domain name
+- [ ] Index concepts
+
+<a id="cn-js-index"></a>
 
 > 有关 JavaScript 的所有概念的索引
 
@@ -20,16 +54,7 @@
 
 ## 书写规范
 
-1. 所有文件或目录必须使用字母和 `-` 命名，如果是中文概念，则使用全拼命名，不能出现空格，特殊情况可以出现 `_`，比如 `__proto__.md`
+1. 所有文件必须使用小写字母和 `-` 命名，如果是中文概念，则使用全拼命名，不能出现空格。特殊情况可以出现 `_`，比如 `__proto__.md`
 2. 中文排版遵循这个规范：[写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
-3. 一级标题表示当前概念的名字
-4. 二级标题用于区分一个概念的多种含义
-5. 二级标题除了用于区分一个概念的多种含义，不能用于其他用途。换句话说，如果一个概念只有一种含义，但是需要子标题，则需要直接使用三级标题
-6. 当涉及到专有名词的时候，需要使用统一的词语，方便脚本自动识别并生成跳转链接。比如应该是 JavaScript 而不是 javascript 或 Javascript
-
-## TODOs
-
-- [ ] 生成网页的脚本（进行中）
-- [ ] 绑定域名 http://index.js.org
-- [ ] 自动识别所有概念，比如一个页面中有 JavaScript 这个词语，就可以自动变成链接跳转到对应的页面
-- [ ] 二级标题自动变成可切换 Tabs
+3. 二级标题用于区分一个概念的多种含义，不能用于其他用途。换句话说，如果一个概念只有一种含义，但是需要子标题，则需要直接使用三级标题
+4. 当涉及到专有名词的时候，需要使用统一的词语。比如应该是 JavaScript 而不是 javascript 或 Javascript

@@ -1,7 +1,7 @@
 {
   "name": "js-index",
   "version": "1.0.0",
-  "description": "有关 JavaScript 的所有概念的索引",
+  "description": "The index of every JavaScript concepts",
   "main": "index.js",
   "scripts": {
     "start": "hexo clean && hexo generate && hexo serve --watch",
@@ -26,12 +26,13 @@
   },
   "dependencies": {
     "hexo": "^3.2.0",
+    "hexo-deployer-git": "^0.2.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.2.0",
-    "hexo-renderer-stylus": "^0.3.1",
     "hexo-renderer-marked": "^0.2.10",
+    "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
   }
 }
