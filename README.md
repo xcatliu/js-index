@@ -34,6 +34,8 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 <a id="cn-js-index"></a>
 
+# JS 索引
+
 > 有关 JavaScript 的所有概念的索引
 
 我会坚持每天更新一条。也欢迎提交 issue 或 pr。
