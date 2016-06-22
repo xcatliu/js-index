@@ -63,7 +63,7 @@ per_page: 0
 pagination_dir: page
 
 index_generator:
-  order_by: date
+  order_by: -date
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
