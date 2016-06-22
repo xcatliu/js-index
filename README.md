@@ -1,8 +1,8 @@
-[中文 README](#cn-js-index)
+[简体中文](#zh-CN)
 
 # JS Index
 
-> The index of everything in JavaScript
+> The index of everything about JavaScript
 
 I'll update one concept per day. Welcome to open an issue or create a pull request.
 
@@ -34,9 +34,9 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 ---
 
-<a id="cn-js-index"></a>
+<a id="zh-CN"></a>
 
-# JS 索引
+# JS Index
 
 > 有关 JavaScript 的一切的索引
 

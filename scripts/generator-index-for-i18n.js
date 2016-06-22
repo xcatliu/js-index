@@ -16,7 +16,7 @@ hexo.extend.generator.register('i18n-index', function (locals) {
     const filtedPosts = posts.filter(item => item.lang === lang);
     return prev.concat(pagination(lang, filtedPosts, {
       perPage: config.index_generator.per_page,
-      layout: ['index-i18n', 'index'],
+      layout: ['index'],
       format: `${paginationDir}/%d/`,
       data: {
         __index: true,

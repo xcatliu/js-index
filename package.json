@@ -1,7 +1,7 @@
 {
   "name": "js-index",
   "version": "1.0.0",
-  "description": "The index of everything in JavaScript",
+  "description": "The index of everything about JavaScript",
   "main": "index.js",
   "scripts": {
     "start": "hexo clean && hexo generate && hexo serve --watch",

@@ -1,6 +1,10 @@
-header:
-  title: JS Index
-  archive: 归档
-  new: 最新
-  github: GitHub
-  search: 全站搜索
+archives: 归档
+new: 最新
+github: GitHub
+search: 全站搜索
+
+jumbotron:
+  title: 有关 JavaScript 的一切的索引
+  create: 新建一项
+
+more: 查看更多

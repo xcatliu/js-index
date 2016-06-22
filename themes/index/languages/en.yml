@@ -1,6 +1,10 @@
-header:
-  title: JS Index
-  archive: Archive
-  new: New
-  github: GitHub
-  search: Search...
+archives: Archives
+new: New
+github: GitHub
+search: Search...
+
+jumbotron:
+  title: The index of everything about JavaScript
+  create: Create an item
+
+more: Show more

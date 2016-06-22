@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://index.js.org
+url: http://index-js.xcatliu.com
 root: /
 permalink: :lang/:title.html
 permalink_defaults:
@@ -63,7 +63,7 @@ per_page: 0
 pagination_dir: page
 
 index_generator:
-  order_by: path
+  order_by: date
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -77,3 +77,5 @@ deploy:
   repo: git@github.com:xcatliu/js-index.git
   branch: gh-pages
   message:
+
+github: https://github.com/xcatliu/js-index
