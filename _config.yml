@@ -4,7 +4,7 @@
 
 # Site
 title: JS Index
-subtitle: The index of everything in JavaScript
+subtitle: The index of everything about JavaScript
 description:
 author: Xcat Liu
 language:
@@ -61,9 +61,6 @@ time_format: HH:mm:ss
 ## Set per_page to 0 to disable pagination
 per_page: 0
 pagination_dir: page
-
-index_generator:
-  order_by: -date
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
