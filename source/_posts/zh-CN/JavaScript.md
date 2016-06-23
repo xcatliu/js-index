@@ -1,5 +1,6 @@
 ---
 title: JavaScript
+alias: JS
 ---
 
 JavaScript 是一种脚本语言。

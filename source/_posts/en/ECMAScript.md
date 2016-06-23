@@ -1,5 +1,6 @@
 ---
 title: ECMAScript
+alias: ES
 ---
 
 ECMAScript is the specification of JavaScript core.

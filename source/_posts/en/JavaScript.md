@@ -1,5 +1,6 @@
 ---
 title: JavaScript
+alias: JS
 ---
 
 JavaScript is a scripting language.

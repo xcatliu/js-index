@@ -31,12 +31,10 @@
     "hexo-deployer-git": "^0.2.0",
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-index-i18n": "^0.1.0",
-    "hexo-pagination": "^0.1.0",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-sass": "^0.2.0",
-    "hexo-server": "^0.2.0",
-    "object-assign": "^4.1.0"
+    "hexo-server": "^0.2.0"
   },
   "devDependencies": {
     "eslint": "^2.13.1",

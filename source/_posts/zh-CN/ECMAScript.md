@@ -1,5 +1,6 @@
 ---
 title: ECMAScript
+alias: ES
 ---
 
 ECMAScript 是 JavaScript 核心的标准。
