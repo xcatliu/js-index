@@ -1,5 +1,7 @@
 [简体中文](#zh-CN)
 
+[![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index)
+
 # JS Index
 
 > The index of everything about JavaScript

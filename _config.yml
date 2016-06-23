@@ -8,8 +8,8 @@ subtitle: The index of everything about JavaScript
 description:
 author: Xcat Liu
 language:
-  - en
-  - zh-CN
+- en
+- zh-CN
 timezone:
 
 # URL
@@ -28,7 +28,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-  - google6cc0edae76a2e625.html
+- google6cc0edae76a2e625.html
 
 # Writing
 new_post_name: :lang/:title.md # File name of new posts
