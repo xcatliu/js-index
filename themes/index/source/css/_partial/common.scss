@@ -1,4 +1,4 @@
-@import '_variables';
+@import 'variables';
 
 html {
   font-size: $font-size-base;
@@ -23,4 +23,8 @@ body {
 .no-style {
   text-decoration: none;
   color: inherit;
+}
+
+.hidden {
+  display: none;
 }

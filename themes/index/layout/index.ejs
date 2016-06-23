@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
-<%- partial('partial/head') %>
+<%- partial('_partial/head') %>
   <body>
-  <%- partial('partial/header') %>
-  <%- partial('partial/jumbotron') %>
-  <%- partial('partial/cards', {
+  <%- partial('_partial/header') %>
+  <%- partial('_partial/jumbotron') %>
+  <%- partial('_partial/cards', {
     title: __('new'),
     items: page.posts,
   }) %>
+  <%- partial('_partial/scripts') %>
   </body>
 </html>

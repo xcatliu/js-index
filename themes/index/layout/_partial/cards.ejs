@@ -5,7 +5,7 @@
   <div class="cards-content-container-wrap">
     <div class="container">
       <ul class="cards-content">
-      <% items.filter(item => item.redirect === undefined).slice(0, 7).forEach(item => { %>
+      <% items.slice(0, 7).forEach(item => { %>
         <li class="card-wrap">
           <a class="card" href="<%= url_for(item.path) %>">
             <h4 class="card-title"><%= item.title %></h4>
