@@ -2,11 +2,12 @@
 
 [![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index)
 
-Homepage: http://js-index.com/
-
 # JS Index
 
 > The index of everything about JavaScript
+
+- Homepage: http://js-index.com/
+- theme: https://github.com/xcatliu/hexo-theme-wiki-i18n
 
 I'll update one item per day. Welcome to open an issue or create a pull request.
 
@@ -43,6 +44,9 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 # JS Index
 
 > 有关 JavaScript 的一切的索引
+
+- 首页：http://js-index.com/
+- 主题：https://github.com/xcatliu/hexo-theme-wiki-i18n
 
 我会坚持每天更新一条。也欢迎提交 issue 或 pr。
 
