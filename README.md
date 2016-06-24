@@ -6,7 +6,7 @@
 
 > The index of everything about JavaScript
 
-I'll update one concept per day. Welcome to open an issue or create a pull request.
+I'll update one item per day. Welcome to open an issue or create a pull request.
 
 ## Why to create this index
 
@@ -19,7 +19,7 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 ## Three principles
 
 1. Collecting every concepts, no matter how basic or how deep it is
-2. The description of concepts need to be as simple as it can. It's ok to let our reader have a basic understanding for it, then additionally provide some links for depth understanding
+2. The description of each concept needs to be as simple as it can. It's ok to let our reader have a basic understanding for it, then additionally provide extra links for depth understanding
 3. The links we provided need to be as authority and meaningful as it can. Quality is better than quantity. Links is the most valuable thing in JS Index
 
 ## Writing specifications

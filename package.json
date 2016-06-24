@@ -29,7 +29,7 @@
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.2.0",
-    "hexo-generator-archive-alphabet": "^0.1.1",
+    "hexo-generator-archive-alphabet-i18n": "^0.1.0",
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-index-i18n": "^0.1.1",
     "hexo-generator-sitemap": "^1.1.2",

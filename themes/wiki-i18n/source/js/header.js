@@ -8,7 +8,7 @@
       return;
     }
     var googleSearchPrefix = 'https://www.google.com/#newwindow=1&q=';
-    var siteUrl = window.hexoData.config.url;
+    var siteUrl = window.HEXO_DATA.config.url;
     window.open(googleSearchPrefix + 'site:' + siteUrl + '+' + text, '_blank');
   });
 

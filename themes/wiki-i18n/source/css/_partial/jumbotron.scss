@@ -1,6 +1,6 @@
 @import 'variables';
 
-.jumbotron-container-wrap {
+.jumbotron {
   background-color: $color-dark-gray;
   background-image: url('/images/pixels.png');
   background-repeat: repeat;
@@ -10,7 +10,7 @@
 
   a {
     color: $color-text-white;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
