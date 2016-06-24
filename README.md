@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index)
 
+Homepage: http://js-index.com/
+
 # JS Index
 
 > The index of everything about JavaScript
