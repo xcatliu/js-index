@@ -1,4 +1,4 @@
-[简体中文](#zh-CN)
+[简体中文](#zh-cn)
 
 [![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index)
 
@@ -27,7 +27,7 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 ## Writing specifications
 
-1. Every files need to be named with letters and `-`, no spaces. In some special cases, it's allowed to use `_`, i.e. `__proto__.md`
+1. Every files need to be named with lowercased letters and `-`, no spaces. In some special cases, it's allowed to use `_`, i.e. `__proto__.md`
 2. Second level heading need to be used for multiple meanings of one concept. In the other words, if one concept has only one meaning, but we need to use sub heading, then use third level heading instead
 3. Use unified words for proper nouns, for example, use JavaScript, not javascript or Javascript
 
@@ -39,7 +39,7 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 ---
 
-<a id="zh-CN"></a>
+<a id="zh-cn"></a>
 
 # JS Index
 
@@ -66,7 +66,7 @@ So I hope to collect every JavaScript concepts, in order to help people who need
 
 ## 书写规范
 
-1. 所有文件必须使用字母和 `-` 命名，如果是中文概念，则使用全拼命名，不能出现空格。特殊情况可以出现 `_`，比如 `__proto__.md`
+1. 所有文件必须使用小写字母和 `-` 命名，如果是中文概念，则使用全拼命名，不能出现空格。特殊情况可以出现 `_`，比如 `__proto__.md`
 2. 中文排版遵循这个规范：[写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
 3. 二级标题用于区分一个概念的多种含义，不能用于其他用途。换句话说，如果一个概念只有一种含义，但是需要子标题，则需要直接使用三级标题
 4. 当涉及到专有名词的时候，需要使用统一的词语。比如应该是 JavaScript 而不是 javascript 或 Javascript
