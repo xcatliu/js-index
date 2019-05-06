@@ -1,6 +1,6 @@
 [简体中文](#zh-cn)
 
-[![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index)
+[![Build Status](https://travis-ci.org/xcatliu/js-index.svg?branch=master)](https://travis-ci.org/xcatliu/js-index) [![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/js-index.svg)](https://greenkeeper.io/)
 
 # JS Index
 
